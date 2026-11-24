@@ -1,2 +1,2 @@
 <?php
-echo "repodan gelen";
+echo "repodan gelen de değişiklik yaptım sunucuda";
